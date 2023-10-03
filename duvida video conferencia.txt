@@ -1,9 +1,0 @@
- Professora, aqui nessa video conferência tambem podemos aproveitar para tirar algumas duvidas, né ?
----------------------------------------------------------------
-O intuito da sra apresentar essa ferramenta grafica é apenas para gerar os scripts ou a sra tambem deseja receber o grafico ?
----------------------------------------------------------------
-Professora,eu havia pensando em fezer um unico script porem pensando bem, devo entregar em 3 scripts. Considerando em termos de management do sql server, a ideia e a sra estando logada como 'sa' executar primeiro referente a criação do banco e usuario loja, depois logada como usuario'loja' executar o segundo script que trata da criação das tabelas e views e em seguida terceiro que popula as tabelas. 
-
-Sobre a checagem dos requisitos da missão a sra usa as views na execução do script e o codigo dessas views sera apresentado no relatório. Desse jeito atende ?
----------------------------------------------------------------
-
