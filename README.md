@@ -33,18 +33,16 @@ Modelagem e implementação de um banco de dados simples,utilizando como base o 
       
    
  -  2º Procedimento | Criação do Cadastro em Modo Texto    
-    -   Definição do menu e arquivos binarios
-    -   Definição do procedimento de validação
-    -   Utilizar o menu execução de um CRUD
+    -    Utilizar o SQL Server Management Studio para popular as
+         tabelas com dados básicos do sistema 
+    -    Apresentar dados cadastrados
+    -   Geração de scripts pertinentes ao desenvolvimento acima
     -   Gerar Relatório discente de acompanhamento (RDA Part2.pdf)
-    -   Executar MainPart2.java
     
-    obs: a geração dos ids unicos é feita através de codigo e os relatórios se encontram na pasta do projeto
+  - Execução e verificação dos resultados
+    - Os scripts devem ser gerados na ordem descrita onde estarão realizando a criação do banco,usuario, assim como a carga com dados fictcios (mock data)
 
-    ![image](https://github.com/msbzz/estacio.m3.n1/assets/44148209/caf2a5a6-6ba7-4a41-9611-2766604463ae)
-
-    ![image](https://github.com/msbzz/estacio.m3.n1/assets/44148209/b92fcc1f-eff3-4eeb-b084-14961d892f1d)
-
+     
      ## Especificação
      https://sway.office.com/s/rCYHGUtt44OGcxgB/embed
     
