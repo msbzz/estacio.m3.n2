@@ -24,12 +24,12 @@ Modelagem e implementação de um banco de dados simples,utilizando como base o 
 
 - Os procedimentos são divididos em duas etapas
 
-  - 1º Procedimento | Criação das Entidades e Sistema de Persistência
-    -   Definição das entidades PessoaFisica e Juridica
-    -   Definição dos gerenciadores ou classes Repo 
-    -   Utilizar as classes Repo na execução de um CRUD
-    -   Gerar Relatório discente de acompanhamento (RDA Part1.pdf)
-    -   Executar MainPart1.java
+  - 1º Procedimento | Criando o Banco de Dados
+    -   Efetuar a modelagem do banco 
+    -   Baixar e instalar o sql server express  
+    -   Utilizar o SQL Server Management Studio na criação da entidades
+    -   Geração de scripts pertinentes ao desenvolvimento acima
+    -   Gerar Relatório discente de acompanhamento (RDA Part1.pdf) 
       
    
  -  2º Procedimento | Criação do Cadastro em Modo Texto    
