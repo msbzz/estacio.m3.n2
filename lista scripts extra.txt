@@ -1,0 +1,11 @@
+Ver movimentações de entrada e saida
+
+- ver movimentacoes.sql
+
+- total entrada operador.sql
+
+- total saida operador.sql
+
+- Valor total das saidas.sql
+
+- Valor total das entradas.sql

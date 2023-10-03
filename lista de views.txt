@@ -1,0 +1,9 @@
+lista de views
+
+vw_media_ponderada
+vw_mov_compras
+vw_mov_vendas
+vw_operador_compras
+vw_operador_vendas
+vw_pessoa_fisica
+vw_pessoa_juridica

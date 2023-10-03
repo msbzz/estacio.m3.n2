@@ -1,0 +1,33 @@
+Compras de fornecedores (E)
+
+1 - OP3 compra 30 bananas do fornecedor Hortifruti sucesso
+
+2 - OP3 compra 10 laranjas do fornecedor Hortifruti sucesso
+
+3 - OP1 compra 50 mangas do fornecedor Mercado principal
+
+4 -  OP3 compra 20 bananas do fornecedor Hortifruti sucesso(extras)
+
+5 -  OP3 compra 38 laranjas do fornecedor Hortifruti sucesso(extras)
+
+
+Vendas (S)
+
+1 - OP1 vende 10 bananas a Fulano Silva
+
+2 - OP1 vende 5 mangas a Ciclana Souza
+
+3 - OP1 vende 15 laranjas a Mari Silva
+
+4 - OP1 vende 20 mangas a fulano(extras)
+
+5 - OP1 vende 20 laranjas a ciclana(extras)
+
+6 - OP2 vende 30 bananas a Mari(extras)
+
+
+
+
+
+
+

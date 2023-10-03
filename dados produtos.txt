@@ -1,0 +1,5 @@
+inserção produtos
+
+'banana', 100, 10.5
+'laranja', 50, 20.0
+'manga', 200, 5.75

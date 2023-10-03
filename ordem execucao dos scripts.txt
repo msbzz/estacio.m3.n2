@@ -1,0 +1,49 @@
+1 - Criação do banco loja e usuario loja
+
+- Pratica.m3,n2.part1 nw banco user.sql
+
+2 - Criação de todas as tabelas
+
+- Pratica.m3.n2.part2 criar tbs views.sql
+
+3 - Criando usuarios pessao fisica e juridica
+
+- Pratica.m3,n2.part3 insert pessoas f j.sql
+
+4 - Criando Produtos
+
+- Pratica.m3,n2.part4 prod.sql
+
+5 - Criando movimentos de entrada 
+
+- Pratica.m3,n2.part5 mov E.sql
+
+6 - Criando movimentos de saida
+
+- Pratica.m3,n2.part6 mov S.sql 
+
+7 - Inserindo vendas extras 
+
+- vendas Extras part7.sql
+
+8 - Inserindo compras extras
+
+- Compras Extras part7.sql
+
+
+Views Usadas
+
+  vw_operador_vendas
+  vw_operador_compras
+  vw_mov_compras
+  vw_mov_vendas
+  vw_pessoa_fisica
+  vw_pessoa_juridica 
+  vw_media_ponderada
+
+
+
+
+
+
+

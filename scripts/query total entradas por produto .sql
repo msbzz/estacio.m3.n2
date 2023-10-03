@@ -1,0 +1,1 @@
+select produto,sum(total) as total from vw_mov_compras group by produto
