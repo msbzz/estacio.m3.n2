@@ -59,14 +59,14 @@ Modelagem e implementação de um banco de dados simples,utilizando como base o 
       - Inserindo compras extras
           - 08_Vendas Extrass part7.sql
 
-     ![image](https://github.com/msbzz/estacio.m3.n2/assets/44148209/f6cb17bd-ec42-4092-bfff-7635eaea8870)
+     ![image](images/image1.png)
 
     obs1: apenas o primero script deve ser utilizado com sa, os seguintes é necessário que se esteja logado com usuario "loja"
 
 
  - Os relatórios podem ser encontrados na pasta raiz
 
-    ![image](https://github.com/msbzz/estacio.m3.n2/assets/44148209/918b82ca-3055-4bb4-91c2-7de81782f761)
+    ![image](images/image2.png)
 
 
      
